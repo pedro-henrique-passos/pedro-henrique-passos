@@ -36,4 +36,6 @@ Atualmente trabalho com **Python, Power BI, SQL e SAS Viya**, desenvolvendo mode
 
 [![SAS Viya Badge](https://github.com/pedro-henrique-passos/pedro-henrique-passos/blob/main/img/working-with-sas-viya-jobs.png)](https://www.credly.com/badges/1514071e-d06b-4c20-99d0-475d8e12ca0a/public_url)
 
+[![SAS Viya Badge](https://github.com/pedro-henrique-passos/pedro-henrique-passos/blob/main/img/advanced-topics-in-encryption-on-sas-viya.png)](https://www.credly.com/badges/78576186-c006-4cc5-ada3-8f0a7b016275/public_url)
+
 
