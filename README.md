@@ -34,4 +34,4 @@ Atualmente trabalho com **Python, Power BI, SQL e SAS Viya**, desenvolvendo mode
 🔗 **LinkedIn:** [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-desenvolvedor-software/)
 
 
-[![SAS Badge](https://images.credly.com/size/340x340/images/1514071e-d06b-4c20-99d0-475d8e12ca0a/image.png)](https://www.credly.com/badges/1514071e-d06b-4c20-99d0-475d8e12ca0a/public_url)
+[![SAS Badge]([https://images.credly.com/size/340x340/images/1514071e-d06b-4c20-99d0-475d8e12ca0a/image.png](https://github.com/pedro-henrique-passos/pedro-henrique-passos/blob/main/working-with-sas-viya-jobs.png))](https://www.credly.com/badges/1514071e-d06b-4c20-99d0-475d8e12ca0a/public_url)
