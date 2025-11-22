@@ -34,3 +34,4 @@ Atualmente trabalho com **Python, Power BI, SQL e SAS Viya**, desenvolvendo mode
 🔗 **LinkedIn:** [Pedro Henrique](https://www.linkedin.com/in/pedro-henrique-desenvolvedor-software/)
 
 
+[![SAS Certification](https://meu-repo.github.io/images/sas-badge.png)](https://www.credly.com/badges/1514071e-d06b-4c20-99d0-475d8e12ca0a/)
