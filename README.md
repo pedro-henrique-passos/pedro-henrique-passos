@@ -27,32 +27,6 @@ Atualmente trabalho com **Python, Power BI, SQL e SAS Viya**, desenvolvendo mode
 - Pandas, NumPy, Scikit-Learn, Matplotlib  
 - RAG / LangChain / NLP  
 
----
-
-
-
----
-
-## 📈 Estatísticas do GitHub
-
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-### 🔥 Meus Stats
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-henrique-passos&show_icons=true&theme=tokyonight&count_private=true)
-
-### 📊 Linguagens que uso mais
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-passos&layout=compact&theme=tokyonight)
-
-### 🏆 Troféus
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pedro-henrique-passos&theme=tokyonight&margin-w=10)
-
-</div>
-
----
-
 ## 💬 Contato
 
 
