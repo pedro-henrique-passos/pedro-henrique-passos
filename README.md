@@ -71,12 +71,3 @@
     <img src="img/machine-learning-using-sas-viya.1.png" alt="Machine Learning Using SAS Viya" width="120">
   </a>
 </p>
-
----
-
-## 📈 Estatísticas no GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-passos&show_icons=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-passos&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais usadas" height="160">
-</p>
