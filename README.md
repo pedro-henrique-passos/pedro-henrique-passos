@@ -59,15 +59,15 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/1514071e-d06b-4c20-99d0-475d8e12ca0a/public_url">
-    <img src="img/working-with-sas-viya-jobs.png" alt="Working with SAS Viya Jobs" width="120">
+    <img src="https://images.credly.com/size/340x340/images/b4b83ec5-8fda-4d45-af41-aa5f2b6ef43b/62056_badges_Learn_Programming.png" alt="Working with SAS Viya Jobs" width="140">
   </a>
   <a href="https://www.credly.com/badges/78576186-c006-4cc5-ada3-8f0a7b016275/public_url">
-    <img src="img/advanced-topics-in-encryption-on-sas-viya.png" alt="Advanced Topics in Encryption on SAS Viya" width="120">
+    <img src="https://images.credly.com/size/340x340/images/18ed3e0c-bd03-4de5-bd08-db6512b94574/image.png" alt="Advanced Topics in Encryption on SAS Viya" width="140">
   </a>
   <a href="https://www.credly.com/badges/9d68528f-c729-4e94-ad85-ecb63f2c004a/public_url">
-    <img src="img/architecture-and-administration-for-sas-workload-ma%20(1).png" alt="Architecture and Administration for SAS Workload Management" width="120">
+    <img src="https://images.credly.com/size/340x340/images/4c2c6ee5-b2d6-4bd2-9fd9-a695a1cc09d1/image.png" alt="Architecture and Administration for SAS Workload Management on SAS Viya" width="140">
   </a>
   <a href="https://www.credly.com/badges/9c4c88e2-79f4-4c8d-97da-2843ceaa560a/public_url">
-    <img src="img/machine-learning-using-sas-viya.1.png" alt="Machine Learning Using SAS Viya" width="120">
+    <img src="https://images.credly.com/size/340x340/images/3c8af288-45b1-48be-b603-43cff7f90afc/62056_badges_EducationTraining_Learn_AdvAnalytics.png" alt="Machine Learning Using SAS Viya" width="140">
   </a>
 </p>
